@@ -304,6 +304,24 @@ const goToBooking = () => {
             </div>
           </div>
         </section>
+        <section className="bg-white py-20 md:py-24">
+  <div className="mx-auto max-w-6xl px-4 md:px-6 text-center">
+    <SectionTitle
+      eyebrow="Visual proof"
+      title="Most people do not see the difference until it matters."
+      body="A few documents can feel like a plan. A true system is something your family can actually follow when pressure shows up."
+      center
+    />
+
+    <div className="mt-12 overflow-hidden rounded-[28px] border border-slate-200 bg-white p-3 shadow-[0_20px_60px_rgba(15,23,42,0.10)] md:p-5">
+      <img
+        src="/images/estate-vs-no-plan.png"
+        alt="Estate planning comparison"
+        className="w-full rounded-[20px] object-cover"
+      />
+    </div>
+  </div>
+</section>
 
         <section className="bg-slate-950 py-16 text-white md:py-20">
           <div className="mx-auto max-w-6xl px-4 md:px-6">
